@@ -2,7 +2,7 @@
 
 > **Purpose:** Complete appendix documentation for the CreatorOS
 > ideathon submission.\
-> **Team:** ByteBuilders
+> **Team:** HackStorm
 
 ------------------------------------------------------------------------
 
